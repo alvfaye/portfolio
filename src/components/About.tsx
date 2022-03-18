@@ -15,10 +15,11 @@ function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed text-gray-500">
-            An old hand at coding software, skilled in juggling simultaneous projects in different
-            stages of development.<br/>
-            Excited to build MVPs from an idea in
-            someone's head into a working piece of software.
+            An old hand at coding software, skilled in juggling simultaneous
+            projects in different stages of development.
+            <br />
+            Excited to build MVPs from an idea in someone's head into a working
+            piece of software.
           </p>
           <div className="flex justify-center">
             <a

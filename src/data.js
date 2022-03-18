@@ -3,7 +3,7 @@ import project2 from './images/project2.jpg';
 import project3 from './images/project3.jpg';
 import project4 from './images/project4.jpg';
 
-import image1 from './images/testimonial1.jpg';
+import image1 from './images/testimonial3.jpg';
 import image2 from './images/testimonial2.jpg';
 
 export const projects = [
@@ -54,9 +54,9 @@ export const testimonials = [
   {
     id: '1',
     quote:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, quaerat?',
+      'Eveniet, quaerat? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi fugiat quod voluptate consequatur? Iste officiis sunt est reiciendis hic modi.',
     image: image1,
-    name: 'Sam Milby',
+    name: 'Sam Andrews',
     company: "Sam's Marketing, Inc.",
   },
   {

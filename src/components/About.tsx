@@ -1,7 +1,7 @@
 import React from 'react';
 import coding from '../images/coding.png';
 // import image1 from '../images/casual-life-3d-likes.png';
-import image1 from '../images/banner.gif';
+import image1 from '../images/profile.png'; // banner.gif';
 
 //casual-life-3d-likes
 function About() {
@@ -37,7 +37,7 @@ function About() {
           </div>
         </div>
 
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 pr-4">
+        <div className="flex justify-center items-start lg:max-w-lg lg:w-full md:w-1/2 w-5/6 pr-4">
           <img
             className="object-cover object-center rounded"
             alt="hero"

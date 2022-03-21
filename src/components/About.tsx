@@ -7,14 +7,14 @@ import image1 from '../images/profile.png'; // banner.gif';
 function About() {
   return (
     <section id="about">
-      <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
+      <div className="container flex justify-center mx-auto px-2 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-7 lg:pr-24 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center order-last">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Fe. &nbsp;
             <br className="hidden lg:inline-block" />I love to build amazing
             apps.
           </h1>
-          <p className="mb-8 leading-relaxed text-gray-500">
+          <p className="mb-8 leading-relaxed text-gray-500 font-Merriweather">
             An old hand at coding software, skilled in juggling simultaneous
             projects in different stages of development.
             <br />
@@ -37,9 +37,9 @@ function About() {
           </div>
         </div>
 
-        <div className="flex justify-center items-start lg:max-w-lg lg:w-full md:w-1/2 w-5/6 pr-4">
+        <div className="flex justify-around lg:max-w-lg lg:w-full md:w-1/2 w-5/6 pr-4">
           <img
-            className="object-cover object-center rounded"
+            className="object-cover object-center rounded-md translate-x-7 scale-125 translate-x-20 -rotate-3"
             alt="hero"
             src={image1}
           />

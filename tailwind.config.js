@@ -8,6 +8,7 @@ module.exports = {
         Merriweather: ['Merriweather', 'serif'],
         //font-family: 'Akaya Telivigala', cursive;
         AkayaTelivigala: ['Akaya Telivigala', 'cursive'],
+        Pacifico: ['Pacifico', 'cursive'],
       },
     },
   },

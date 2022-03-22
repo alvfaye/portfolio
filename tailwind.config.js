@@ -10,6 +10,9 @@ module.exports = {
         AkayaTelivigala: ['Akaya Telivigala', 'cursive'],
         Pacifico: ['Pacifico', 'cursive'],
       },
+      backgroundImage: {
+        'hero-pattern': "url('/src/images/computer-screen.png')",
+      },
     },
   },
   plugins: [],

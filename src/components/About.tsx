@@ -6,9 +6,10 @@ import image1 from '../images/profile.png'; // banner.gif';
 //casual-life-3d-likes
 function About() {
   return (
-    <section id="about">
-      <div className="container flex justify-center mx-auto px-2 py-20 md:flex-row flex-col items-center">
-        <div className="lg:flex-grow md:w-7 lg:pr-24 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center order-last">
+    <section id="about" className="bg-hero-pattern bg-cover bg-opacity-80">
+      <div className="container flex justify-center mx-auto px-2 py-20 md:flex-row flex-col items-center ">
+        <div className="lg:flex-grow md:w-7 lg:pr-24 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center order-last"> 
+        
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Fe. &nbsp;
             <br className="hidden lg:inline-block" />I love to build amazing
@@ -39,7 +40,7 @@ function About() {
 
         <div className="flex justify-around lg:max-w-lg lg:w-full md:w-1/2 w-5/6 pr-4">
           <img
-            className="object-cover object-center rounded-md translate-x-7 scale-125 translate-x-20 -rotate-3"
+            className="object-cover object-center rounded-md scale-125 translate-x-20 -rotate-3"
             alt="hero"
             src={image1}
           />

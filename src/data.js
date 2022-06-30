@@ -1,43 +1,61 @@
-import project1 from './images/project1.png';
-import project2 from './images/project2.jpg';
-import project3 from './images/project3.jpg';
+import kanban from './images/kanban.jpg';
+import feedback from './images/feedback.jpg';
+import invoice from './images/invoice-app.jpg';
 import project4 from './images/project4.jpg';
+import audiophile from './images/audiophile.jpg';
+import markdown from './images/markdown.jpg';
 
 import image1 from './images/testimonial3.jpg';
 import image2 from './images/testimonial2.jpg';
 
 export const projects = [
   {
-    title: 'React Helpdesk',
-    subtitle: 'MERN Stack',
+    title: 'Kanban Task Management',
+    subtitle: 'Remix and Prisma',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: project1,
-    link: 'https://fayealvarez.com',
+    image: kanban,
+    link: 'https://eloquent-lewin-a7edb0.netlify.app/#projects',
   },
   {
-    title: 'React CRM',
-    subtitle: 'React and .NET',
+    title: 'Product Feedback App',
+    subtitle: 'React and MongoDB',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: project2,
-    link: 'https://fayealvarez.com',
+    image: feedback,
+    link: 'https://eloquent-lewin-a7edb0.netlify.app/#projects',
   },
   {
-    title: 'DevChat',
+    title: 'Helpdesk App',
     subtitle: 'React and Firebase',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: project3,
-    link: 'https://fayealvarez.com',
+    image: project4,
+    link: 'https://eloquent-lewin-a7edb0.netlify.app/#projects',
   },
   {
-    title: 'Epic Todo App',
+    title: 'Markdown Editor',
     subtitle: 'React Hooks',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: project4,
-    link: 'https://fayealvarez.com',
+    image: markdown,
+    link: 'https://eloquent-lewin-a7edb0.netlify.app/#projects',
+  },
+  {
+    title: 'Invoice App',
+    subtitle: 'Remix and SQLite',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
+    image: invoice,
+    link: 'https://eloquent-lewin-a7edb0.netlify.app/#projects',
+  },
+  {
+    title: 'Audiophile Ecommerce',
+    subtitle: 'Remix, Prisma, & MongoDB',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
+    image: audiophile,
+    link: 'https://eloquent-lewin-a7edb0.netlify.app/#projects',
   },
 ];
 

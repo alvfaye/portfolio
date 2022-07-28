@@ -7,7 +7,7 @@ export default function Contact() {
   const [message, setMessage] = React.useState('');
   type dataType = { [key: string]: any };
 
-  function encode(data:Record<string, any>) {
+  function encode(data: Record<string, any>) {
     return Object.keys(data as dataType)
       .map(
         (key) => encodeURIComponent(key) + '=' + encodeURIComponent(data[key])
@@ -39,7 +39,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: 'opacity(0.7)' }}
-            src="https://www.google.com/maps/embed/v1/place?q=WA+99337&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="https://www.google.com/maps/place/Kennewick,+WA/@46.2004179,-119.2470998,12z/data=!3m1!4b1!4m5!3m4!1s0x54987854e7f54da3:0x787d7dadae8c8ae0!8m2!3d46.2086683!4d-119.119948?hl=en-US"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">

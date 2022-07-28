@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.464a951b.css",
-    "main.js": "/static/js/main.3b71a91f.js",
-    "static/media/testimonial2.jpg": "/static/media/testimonial2.1a7d62cad3e7c5ca2f82.jpg",
-    "static/media/profile.png": "/static/media/profile.a7213198f74613c19fcb.png",
-    "static/media/markdown.jpg": "/static/media/markdown.c18670838bada64d8215.jpg",
-    "static/media/testimonial3.jpg": "/static/media/testimonial3.c19c546df47d248c5ff1.jpg",
-    "static/media/kanban.jpg": "/static/media/kanban.97ccf39089f531271707.jpg",
-    "static/media/feedback.jpg": "/static/media/feedback.d5c1f7161cd06178b94c.jpg",
-    "static/media/invoice-app.jpg": "/static/media/invoice-app.8f6977486440bf880fe6.jpg",
-    "static/media/computer-screen.png": "/static/media/computer-screen.19733c50086a900cc776.png",
-    "index.html": "/index.html",
-    "main.464a951b.css.map": "/static/css/main.464a951b.css.map",
-    "main.3b71a91f.js.map": "/static/js/main.3b71a91f.js.map"
+    "main.css": "/portfolio/static/css/main.1085a995.css",
+    "main.js": "/portfolio/static/js/main.d12ab20b.js",
+    "static/media/testimonial2.jpg": "/portfolio/static/media/testimonial2.1a7d62cad3e7c5ca2f82.jpg",
+    "static/media/profile.png": "/portfolio/static/media/profile.a7213198f74613c19fcb.png",
+    "static/media/markdown.jpg": "/portfolio/static/media/markdown.c18670838bada64d8215.jpg",
+    "static/media/testimonial3.jpg": "/portfolio/static/media/testimonial3.c19c546df47d248c5ff1.jpg",
+    "static/media/kanban.jpg": "/portfolio/static/media/kanban.97ccf39089f531271707.jpg",
+    "static/media/feedback.jpg": "/portfolio/static/media/feedback.d5c1f7161cd06178b94c.jpg",
+    "static/media/invoice-app.jpg": "/portfolio/static/media/invoice-app.8f6977486440bf880fe6.jpg",
+    "static/media/computer-screen.png": "/portfolio/static/media/computer-screen.19733c50086a900cc776.png",
+    "index.html": "/portfolio/index.html",
+    "main.1085a995.css.map": "/portfolio/static/css/main.1085a995.css.map",
+    "main.d12ab20b.js.map": "/portfolio/static/js/main.d12ab20b.js.map"
   },
   "entrypoints": [
-    "static/css/main.464a951b.css",
-    "static/js/main.3b71a91f.js"
+    "static/css/main.1085a995.css",
+    "static/js/main.d12ab20b.js"
   ]
 }

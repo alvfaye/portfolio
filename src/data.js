@@ -1,8 +1,6 @@
 import kanban from './images/kanban.jpg';
 import feedback from './images/feedback.jpg';
 import invoice from './images/invoice-app.jpg';
-import project4 from './images/project4.jpg';
-import audiophile from './images/audiophile.jpg';
 import markdown from './images/markdown.jpg';
 
 import image1 from './images/testimonial3.jpg';
@@ -26,14 +24,6 @@ export const projects = [
     link: 'https://eloquent-lewin-a7edb0.netlify.app/#projects',
   },
   {
-    title: 'Helpdesk App',
-    subtitle: 'React and Firebase',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: project4,
-    link: 'https://eloquent-lewin-a7edb0.netlify.app/#projects',
-  },
-  {
     title: 'Markdown Editor',
     subtitle: 'React Hooks',
     description:
@@ -49,23 +39,15 @@ export const projects = [
     image: invoice,
     link: 'https://eloquent-lewin-a7edb0.netlify.app/#projects',
   },
-  {
-    title: 'Audiophile Ecommerce',
-    subtitle: 'Remix, Prisma, & MongoDB',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: audiophile,
-    link: 'https://eloquent-lewin-a7edb0.netlify.app/#projects',
-  },
 ];
 
 export const skills = [
-  'Javascript / Typescript',
-  'React / Next.js',
-  'Redux / React Context',
-  'MongoDB / Firebase / PostgreSQL',
-  'Express / Node.js',
-  'Rest API / Graphql',
+  'Typescript',
+  'React Remix',
+  'Golang',
+  'MongoDB',
+  'Node.js',
+  'Prisma',
 ];
 
 export const testimonials = [

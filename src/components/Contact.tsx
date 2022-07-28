@@ -47,17 +47,16 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                Greenwoods Pasig <br />
-                1900 Philippines
+                806 Cherry Avenue Kennewick,
+                <br />
+                WA 99337
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a className="text-indigo-400 leading-relaxed">
-                info@email.com
-              </a>
+              <a className="text-indigo-400 leading-relaxed">info@email.com</a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>

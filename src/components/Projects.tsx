@@ -1,18 +1,4 @@
-// import React from 'react'
-// function Projects() {
-//   return (
-//     <div>
-//       {/* Projects */}
-//     </div>
-//   )
-// }
-
-// export default Projects
-
-// src/components/Projects.js
-
 import { CodeIcon } from "@heroicons/react/solid";
-import React from "react";
 import { projects } from "../data";
 
 export default function Projects() {

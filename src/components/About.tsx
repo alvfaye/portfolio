@@ -1,9 +1,8 @@
 import React from 'react';
 import coding from '../images/coding.png';
-// import image1 from '../images/casual-life-3d-likes.png';
-import image1 from '../images/profile.png'; // banner.gif';
+import image1 from '../images/profile.png'; 
 
-//casual-life-3d-likes
+
 function About() {
   return (
     <section id="about" className="bg-hero-pattern bg-cover bg-opacity-80">
@@ -16,8 +15,7 @@ function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed text-gray-500 font-Merriweather">
-            An old hand at coding software, skilled in juggling simultaneous
-            projects in different stages of development.
+            Skilled in juggling simultaneous projects in different stages of development.
             <br />
             Excited to build MVPs from an idea in someone's head into a working
             piece of software.

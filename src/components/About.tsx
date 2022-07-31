@@ -1,5 +1,3 @@
-import React from 'react';
-import coding from '../images/coding.png';
 import image1 from '../images/profile.png'; 
 
 
